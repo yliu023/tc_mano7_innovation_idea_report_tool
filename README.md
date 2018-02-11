@@ -1,0 +1,2 @@
+# tc_mano7_innovation_idea_report_tool
+tc_mano7_innovation_idea_report_tool
